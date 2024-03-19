@@ -2,7 +2,7 @@
 
 This project is a basic implementation of a MERN (MongoDB, Express.js, React.js, Node.js) stack deployed on Kubernetes. It includes a simple web application (Mongo Express) interacting with a MongoDB database, orchestrated using Kubernetes.
 
-## Project Components
+## Project Component
 
 The project consists of the following components:
 
